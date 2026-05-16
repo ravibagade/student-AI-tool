@@ -1,0 +1,6 @@
+flask
+gunicorn
+opencv-python
+pillow
+pytesseract
+google-generativeai
